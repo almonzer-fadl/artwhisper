@@ -65,7 +65,7 @@ export default function Home() {
       <section className="intro-section reveal">
         <div>
           <p className="eyebrow">Welcome</p>
-          <h2>A gallery built around feeling, not noise.</h2>
+          <h2>Where stories are painted, not told.</h2>
         </div>
         <p>
           From calligraphy and cityscapes to nature studies and still life, the collection moves
@@ -102,13 +102,13 @@ export default function Home() {
         </div>
         <div>
           <p className="eyebrow">The Artist's Vision</p>
-          <h2>Color becomes memory. Shape becomes emotion.</h2>
+          <h2>Colors become stories, shapes become imagination.</h2>
         </div>
         <div className="about-copy">
           <p>
-            Every painting starts with a feeling: hope, stillness, wonder, nostalgia, strength. The
-            canvas becomes a place where those emotions can take form through color, texture, and
-            movement.
+            Every painting starts with a feeling. Art isn&apos;t simply meant to be seen — it&apos;s
+            meant to leave something behind in the heart. Each canvas becomes a place where
+            emotions take shape through color, texture, and movement.
           </p>
           <p>
             Art Whisper is an evolving collection for people who like to pause, look closely, and
